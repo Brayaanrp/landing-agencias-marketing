@@ -20,7 +20,7 @@
   // --- Contextual messages by result range ---
   const CONTEXT_MESSAGES = [
     { max: 50000, text: 'Incluso para agencias de tu tama\u00F1o, esta cifra puede cubrir varios meses de un empleado junior.' },
-    { max: 150000, text: 'Esta cifra equivale a un empleado senior que no necesitas contratar.' },
+    { max: 150000, text: 'Este dinero ya está en tu cartera de clientes. Solo falta activarlo.' },
     { max: Infinity, text: 'Tu agencia tiene un potencial de IA por encima de la media. Hablemos.' },
   ];
 
